@@ -1,16 +1,9 @@
 # jeonbuk_sikdan
 
-A new Flutter project.
+전북대 진수당의 일주일간 식단을 쉽게 볼 수 있는 어플입니다.
 
-## Getting Started
+전북대학교소비자생활협동조합 주간식단 게시판의 내용을 스크랩핑하여 구현하였습니다.
 
-This project is a starting point for a Flutter application.
+Flutter로 개발하여 안드로이드, IOS, WEB을 전부 지원합니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+스크래핑까지 해두었고 해당 데이터들을 래핑하여 사용하실 수 있습니다.
